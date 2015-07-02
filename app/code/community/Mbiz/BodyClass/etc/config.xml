@@ -25,4 +25,11 @@
             </updates>
         </layout>
     </frontend>
+    <global>
+        <helpers>
+            <mbiz_bodyclass>
+                <class>Mbiz_BodyClass_Helper</class>
+            </mbiz_bodyclass>
+        </helpers>
+    </global>
 </config>
