@@ -1,3 +1,3 @@
-app/code/community/Mbiz/BodyClass/etc/config.xml                app/code/community/Mbiz/BodyClass/etc/config.xml
-app/design/frontend/base/default/layout/mbiz_bodyclass.xml      app/design/frontend/base/default/layout/mbiz_bodyclass.xml
-app/etc/modules/Mbiz_BodyClass.xml                              app/etc/modules/Mbiz_BodyClass.xml
+app/code/community/Mbiz/BodyClass app/code/community/Mbiz/BodyClass
+app/design/frontend/base/default/layout/mbiz_bodyclass.xml app/design/frontend/base/default/layout/mbiz_bodyclass.xml
+app/etc/modules/Mbiz_BodyClass.xml app/etc/modules/Mbiz_BodyClass.xml
